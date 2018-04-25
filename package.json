@@ -1,0 +1,10 @@
+{
+  "name": "callbag-trace",
+  "version": "1.0.0",
+  "description": "Callbag operator that logs values to the console for simpler debugging",
+  "main": "index.js",
+  "repository": "https://github.com/willisplummer/callbag-trace",
+  "author": "willis plummer <willisplummer@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
