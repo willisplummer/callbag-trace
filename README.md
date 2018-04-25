@@ -4,7 +4,7 @@ Callbag operator for debugging that allows you to pass in a function (e.g. conso
 
 `yarn --dev add callbag-trace`
 
-##example
+## example
 
 ```
 const trace = require('callbag-trace');
