@@ -1,12 +1,12 @@
 # callbag-trace
 
-Callbag operator for debugging that allows you to pass in a function (e.g. console.log) that will be called on each value as it is passed through.
+[Callbag](https://github.com/callbag/callbag) operator for debugging that allows you to pass in a function (e.g. console.log) that will be called on each value as it is passed through.
 
 `yarn --dev add callbag-trace`
 
 ## example
 
-```
+```js
 const trace = require('callbag-trace');
 const {forEach, fromEvent, map, filter, pipe} = require('callbag-basics');
 
